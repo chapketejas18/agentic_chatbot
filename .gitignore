@@ -1,2 +1,4 @@
 .env
 .venv
+langgraph/chroma_db
+langgraph/temp_repo
